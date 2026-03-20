@@ -1,0 +1,31 @@
+{
+  "point": "uranus",
+  "signs": {
+    "aries": "Placeholder uranus in Aries interpretation.",
+    "taurus": "Placeholder uranus in Taurus interpretation.",
+    "gemini": "Placeholder uranus in Gemini interpretation.",
+    "cancer": "Placeholder uranus in Cancer interpretation.",
+    "leo": "Placeholder uranus in Leo interpretation.",
+    "virgo": "Placeholder uranus in Virgo interpretation.",
+    "libra": "Placeholder uranus in Libra interpretation.",
+    "scorpio": "Placeholder uranus in Scorpio interpretation.",
+    "sagittarius": "Placeholder uranus in Sagittarius interpretation.",
+    "capricorn": "Placeholder uranus in Capricorn interpretation.",
+    "aquarius": "Placeholder uranus in Aquarius interpretation.",
+    "pisces": "Placeholder uranus in Pisces interpretation."
+  },
+  "houses": {
+    "house_1": "Placeholder uranus in 1st house interpretation.",
+    "house_2": "Placeholder uranus in 2nd house interpretation.",
+    "house_3": "Placeholder uranus in 3rd house interpretation.",
+    "house_4": "Placeholder uranus in 4th house interpretation.",
+    "house_5": "Placeholder uranus in 5th house interpretation.",
+    "house_6": "Placeholder uranus in 6th house interpretation.",
+    "house_7": "Placeholder uranus in 7th house interpretation.",
+    "house_8": "Placeholder uranus in 8th house interpretation.",
+    "house_9": "Placeholder uranus in 9th house interpretation.",
+    "house_10": "Placeholder uranus in 10th house interpretation.",
+    "house_11": "Placeholder uranus in 11th house interpretation.",
+    "house_12": "Placeholder uranus in 12th house interpretation."
+  }
+}

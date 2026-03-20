@@ -1,0 +1,31 @@
+{
+  "point": "pluto",
+  "signs": {
+    "aries": "Placeholder pluto in Aries interpretation.",
+    "taurus": "Placeholder pluto in Taurus interpretation.",
+    "gemini": "Placeholder pluto in Gemini interpretation.",
+    "cancer": "Placeholder pluto in Cancer interpretation.",
+    "leo": "Placeholder pluto in Leo interpretation.",
+    "virgo": "Placeholder pluto in Virgo interpretation.",
+    "libra": "Placeholder pluto in Libra interpretation.",
+    "scorpio": "Placeholder pluto in Scorpio interpretation.",
+    "sagittarius": "Placeholder pluto in Sagittarius interpretation.",
+    "capricorn": "Placeholder pluto in Capricorn interpretation.",
+    "aquarius": "Placeholder pluto in Aquarius interpretation.",
+    "pisces": "Placeholder pluto in Pisces interpretation."
+  },
+  "houses": {
+    "house_1": "Placeholder pluto in 1st house interpretation.",
+    "house_2": "Placeholder pluto in 2nd house interpretation.",
+    "house_3": "Placeholder pluto in 3rd house interpretation.",
+    "house_4": "Placeholder pluto in 4th house interpretation.",
+    "house_5": "Placeholder pluto in 5th house interpretation.",
+    "house_6": "Placeholder pluto in 6th house interpretation.",
+    "house_7": "Placeholder pluto in 7th house interpretation.",
+    "house_8": "Placeholder pluto in 8th house interpretation.",
+    "house_9": "Placeholder pluto in 9th house interpretation.",
+    "house_10": "Placeholder pluto in 10th house interpretation.",
+    "house_11": "Placeholder pluto in 11th house interpretation.",
+    "house_12": "Placeholder pluto in 12th house interpretation."
+  }
+}

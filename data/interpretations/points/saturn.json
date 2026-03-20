@@ -1,0 +1,31 @@
+{
+  "point": "saturn",
+  "signs": {
+    "aries": "Placeholder saturn in Aries interpretation.",
+    "taurus": "Placeholder saturn in Taurus interpretation.",
+    "gemini": "Placeholder saturn in Gemini interpretation.",
+    "cancer": "Placeholder saturn in Cancer interpretation.",
+    "leo": "Placeholder saturn in Leo interpretation.",
+    "virgo": "Placeholder saturn in Virgo interpretation.",
+    "libra": "Placeholder saturn in Libra interpretation.",
+    "scorpio": "Placeholder saturn in Scorpio interpretation.",
+    "sagittarius": "Placeholder saturn in Sagittarius interpretation.",
+    "capricorn": "Placeholder saturn in Capricorn interpretation.",
+    "aquarius": "Placeholder saturn in Aquarius interpretation.",
+    "pisces": "Placeholder saturn in Pisces interpretation."
+  },
+  "houses": {
+    "house_1": "Placeholder saturn in 1st house interpretation.",
+    "house_2": "Placeholder saturn in 2nd house interpretation.",
+    "house_3": "Placeholder saturn in 3rd house interpretation.",
+    "house_4": "Placeholder saturn in 4th house interpretation.",
+    "house_5": "Placeholder saturn in 5th house interpretation.",
+    "house_6": "Placeholder saturn in 6th house interpretation.",
+    "house_7": "Placeholder saturn in 7th house interpretation.",
+    "house_8": "Placeholder saturn in 8th house interpretation.",
+    "house_9": "Placeholder saturn in 9th house interpretation.",
+    "house_10": "Placeholder saturn in 10th house interpretation.",
+    "house_11": "Placeholder saturn in 11th house interpretation.",
+    "house_12": "Placeholder saturn in 12th house interpretation."
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "point": "lilith",
+  "signs": {
+    "aries": "Placeholder lilith in Aries interpretation.",
+    "taurus": "Placeholder lilith in Taurus interpretation.",
+    "gemini": "Placeholder lilith in Gemini interpretation.",
+    "cancer": "Placeholder lilith in Cancer interpretation.",
+    "leo": "Placeholder lilith in Leo interpretation.",
+    "virgo": "Placeholder lilith in Virgo interpretation.",
+    "libra": "Placeholder lilith in Libra interpretation.",
+    "scorpio": "Placeholder lilith in Scorpio interpretation.",
+    "sagittarius": "Placeholder lilith in Sagittarius interpretation.",
+    "capricorn": "Placeholder lilith in Capricorn interpretation.",
+    "aquarius": "Placeholder lilith in Aquarius interpretation.",
+    "pisces": "Placeholder lilith in Pisces interpretation."
+  },
+  "houses": {
+    "house_1": "Placeholder lilith in 1st house interpretation.",
+    "house_2": "Placeholder lilith in 2nd house interpretation.",
+    "house_3": "Placeholder lilith in 3rd house interpretation.",
+    "house_4": "Placeholder lilith in 4th house interpretation.",
+    "house_5": "Placeholder lilith in 5th house interpretation.",
+    "house_6": "Placeholder lilith in 6th house interpretation.",
+    "house_7": "Placeholder lilith in 7th house interpretation.",
+    "house_8": "Placeholder lilith in 8th house interpretation.",
+    "house_9": "Placeholder lilith in 9th house interpretation.",
+    "house_10": "Placeholder lilith in 10th house interpretation.",
+    "house_11": "Placeholder lilith in 11th house interpretation.",
+    "house_12": "Placeholder lilith in 12th house interpretation."
+  }
+}

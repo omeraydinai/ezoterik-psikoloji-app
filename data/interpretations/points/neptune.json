@@ -1,0 +1,31 @@
+{
+  "point": "neptune",
+  "signs": {
+    "aries": "Placeholder neptune in Aries interpretation.",
+    "taurus": "Placeholder neptune in Taurus interpretation.",
+    "gemini": "Placeholder neptune in Gemini interpretation.",
+    "cancer": "Placeholder neptune in Cancer interpretation.",
+    "leo": "Placeholder neptune in Leo interpretation.",
+    "virgo": "Placeholder neptune in Virgo interpretation.",
+    "libra": "Placeholder neptune in Libra interpretation.",
+    "scorpio": "Placeholder neptune in Scorpio interpretation.",
+    "sagittarius": "Placeholder neptune in Sagittarius interpretation.",
+    "capricorn": "Placeholder neptune in Capricorn interpretation.",
+    "aquarius": "Placeholder neptune in Aquarius interpretation.",
+    "pisces": "Placeholder neptune in Pisces interpretation."
+  },
+  "houses": {
+    "house_1": "Placeholder neptune in 1st house interpretation.",
+    "house_2": "Placeholder neptune in 2nd house interpretation.",
+    "house_3": "Placeholder neptune in 3rd house interpretation.",
+    "house_4": "Placeholder neptune in 4th house interpretation.",
+    "house_5": "Placeholder neptune in 5th house interpretation.",
+    "house_6": "Placeholder neptune in 6th house interpretation.",
+    "house_7": "Placeholder neptune in 7th house interpretation.",
+    "house_8": "Placeholder neptune in 8th house interpretation.",
+    "house_9": "Placeholder neptune in 9th house interpretation.",
+    "house_10": "Placeholder neptune in 10th house interpretation.",
+    "house_11": "Placeholder neptune in 11th house interpretation.",
+    "house_12": "Placeholder neptune in 12th house interpretation."
+  }
+}

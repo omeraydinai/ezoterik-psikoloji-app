@@ -1,0 +1,31 @@
+{
+  "point": "south_node",
+  "signs": {
+    "aries": "Placeholder south node in Aries interpretation.",
+    "taurus": "Placeholder south node in Taurus interpretation.",
+    "gemini": "Placeholder south node in Gemini interpretation.",
+    "cancer": "Placeholder south node in Cancer interpretation.",
+    "leo": "Placeholder south node in Leo interpretation.",
+    "virgo": "Placeholder south node in Virgo interpretation.",
+    "libra": "Placeholder south node in Libra interpretation.",
+    "scorpio": "Placeholder south node in Scorpio interpretation.",
+    "sagittarius": "Placeholder south node in Sagittarius interpretation.",
+    "capricorn": "Placeholder south node in Capricorn interpretation.",
+    "aquarius": "Placeholder south node in Aquarius interpretation.",
+    "pisces": "Placeholder south node in Pisces interpretation."
+  },
+  "houses": {
+    "house_1": "Placeholder south node in 1st house interpretation.",
+    "house_2": "Placeholder south node in 2nd house interpretation.",
+    "house_3": "Placeholder south node in 3rd house interpretation.",
+    "house_4": "Placeholder south node in 4th house interpretation.",
+    "house_5": "Placeholder south node in 5th house interpretation.",
+    "house_6": "Placeholder south node in 6th house interpretation.",
+    "house_7": "Placeholder south node in 7th house interpretation.",
+    "house_8": "Placeholder south node in 8th house interpretation.",
+    "house_9": "Placeholder south node in 9th house interpretation.",
+    "house_10": "Placeholder south node in 10th house interpretation.",
+    "house_11": "Placeholder south node in 11th house interpretation.",
+    "house_12": "Placeholder south node in 12th house interpretation."
+  }
+}

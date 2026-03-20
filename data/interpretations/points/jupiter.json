@@ -1,0 +1,31 @@
+{
+  "point": "jupiter",
+  "signs": {
+    "aries": "Placeholder jupiter in Aries interpretation.",
+    "taurus": "Placeholder jupiter in Taurus interpretation.",
+    "gemini": "Placeholder jupiter in Gemini interpretation.",
+    "cancer": "Placeholder jupiter in Cancer interpretation.",
+    "leo": "Placeholder jupiter in Leo interpretation.",
+    "virgo": "Placeholder jupiter in Virgo interpretation.",
+    "libra": "Placeholder jupiter in Libra interpretation.",
+    "scorpio": "Placeholder jupiter in Scorpio interpretation.",
+    "sagittarius": "Placeholder jupiter in Sagittarius interpretation.",
+    "capricorn": "Placeholder jupiter in Capricorn interpretation.",
+    "aquarius": "Placeholder jupiter in Aquarius interpretation.",
+    "pisces": "Placeholder jupiter in Pisces interpretation."
+  },
+  "houses": {
+    "house_1": "Placeholder jupiter in 1st house interpretation.",
+    "house_2": "Placeholder jupiter in 2nd house interpretation.",
+    "house_3": "Placeholder jupiter in 3rd house interpretation.",
+    "house_4": "Placeholder jupiter in 4th house interpretation.",
+    "house_5": "Placeholder jupiter in 5th house interpretation.",
+    "house_6": "Placeholder jupiter in 6th house interpretation.",
+    "house_7": "Placeholder jupiter in 7th house interpretation.",
+    "house_8": "Placeholder jupiter in 8th house interpretation.",
+    "house_9": "Placeholder jupiter in 9th house interpretation.",
+    "house_10": "Placeholder jupiter in 10th house interpretation.",
+    "house_11": "Placeholder jupiter in 11th house interpretation.",
+    "house_12": "Placeholder jupiter in 12th house interpretation."
+  }
+}

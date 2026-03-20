@@ -1,0 +1,31 @@
+{
+  "point": "north_node",
+  "signs": {
+    "aries": "Placeholder north node in Aries interpretation.",
+    "taurus": "Placeholder north node in Taurus interpretation.",
+    "gemini": "Placeholder north node in Gemini interpretation.",
+    "cancer": "Placeholder north node in Cancer interpretation.",
+    "leo": "Placeholder north node in Leo interpretation.",
+    "virgo": "Placeholder north node in Virgo interpretation.",
+    "libra": "Placeholder north node in Libra interpretation.",
+    "scorpio": "Placeholder north node in Scorpio interpretation.",
+    "sagittarius": "Placeholder north node in Sagittarius interpretation.",
+    "capricorn": "Placeholder north node in Capricorn interpretation.",
+    "aquarius": "Placeholder north node in Aquarius interpretation.",
+    "pisces": "Placeholder north node in Pisces interpretation."
+  },
+  "houses": {
+    "house_1": "Placeholder north node in 1st house interpretation.",
+    "house_2": "Placeholder north node in 2nd house interpretation.",
+    "house_3": "Placeholder north node in 3rd house interpretation.",
+    "house_4": "Placeholder north node in 4th house interpretation.",
+    "house_5": "Placeholder north node in 5th house interpretation.",
+    "house_6": "Placeholder north node in 6th house interpretation.",
+    "house_7": "Placeholder north node in 7th house interpretation.",
+    "house_8": "Placeholder north node in 8th house interpretation.",
+    "house_9": "Placeholder north node in 9th house interpretation.",
+    "house_10": "Placeholder north node in 10th house interpretation.",
+    "house_11": "Placeholder north node in 11th house interpretation.",
+    "house_12": "Placeholder north node in 12th house interpretation."
+  }
+}

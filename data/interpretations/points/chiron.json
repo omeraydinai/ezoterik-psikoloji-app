@@ -1,0 +1,31 @@
+{
+  "point": "chiron",
+  "signs": {
+    "aries": "Placeholder chiron in Aries interpretation.",
+    "taurus": "Placeholder chiron in Taurus interpretation.",
+    "gemini": "Placeholder chiron in Gemini interpretation.",
+    "cancer": "Placeholder chiron in Cancer interpretation.",
+    "leo": "Placeholder chiron in Leo interpretation.",
+    "virgo": "Placeholder chiron in Virgo interpretation.",
+    "libra": "Placeholder chiron in Libra interpretation.",
+    "scorpio": "Placeholder chiron in Scorpio interpretation.",
+    "sagittarius": "Placeholder chiron in Sagittarius interpretation.",
+    "capricorn": "Placeholder chiron in Capricorn interpretation.",
+    "aquarius": "Placeholder chiron in Aquarius interpretation.",
+    "pisces": "Placeholder chiron in Pisces interpretation."
+  },
+  "houses": {
+    "house_1": "Placeholder chiron in 1st house interpretation.",
+    "house_2": "Placeholder chiron in 2nd house interpretation.",
+    "house_3": "Placeholder chiron in 3rd house interpretation.",
+    "house_4": "Placeholder chiron in 4th house interpretation.",
+    "house_5": "Placeholder chiron in 5th house interpretation.",
+    "house_6": "Placeholder chiron in 6th house interpretation.",
+    "house_7": "Placeholder chiron in 7th house interpretation.",
+    "house_8": "Placeholder chiron in 8th house interpretation.",
+    "house_9": "Placeholder chiron in 9th house interpretation.",
+    "house_10": "Placeholder chiron in 10th house interpretation.",
+    "house_11": "Placeholder chiron in 11th house interpretation.",
+    "house_12": "Placeholder chiron in 12th house interpretation."
+  }
+}

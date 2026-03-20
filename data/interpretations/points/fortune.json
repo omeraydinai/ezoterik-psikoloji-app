@@ -1,0 +1,31 @@
+{
+  "point": "fortune",
+  "signs": {
+    "aries": "Placeholder fortune in Aries interpretation.",
+    "taurus": "Placeholder fortune in Taurus interpretation.",
+    "gemini": "Placeholder fortune in Gemini interpretation.",
+    "cancer": "Placeholder fortune in Cancer interpretation.",
+    "leo": "Placeholder fortune in Leo interpretation.",
+    "virgo": "Placeholder fortune in Virgo interpretation.",
+    "libra": "Placeholder fortune in Libra interpretation.",
+    "scorpio": "Placeholder fortune in Scorpio interpretation.",
+    "sagittarius": "Placeholder fortune in Sagittarius interpretation.",
+    "capricorn": "Placeholder fortune in Capricorn interpretation.",
+    "aquarius": "Placeholder fortune in Aquarius interpretation.",
+    "pisces": "Placeholder fortune in Pisces interpretation."
+  },
+  "houses": {
+    "house_1": "Placeholder fortune in 1st house interpretation.",
+    "house_2": "Placeholder fortune in 2nd house interpretation.",
+    "house_3": "Placeholder fortune in 3rd house interpretation.",
+    "house_4": "Placeholder fortune in 4th house interpretation.",
+    "house_5": "Placeholder fortune in 5th house interpretation.",
+    "house_6": "Placeholder fortune in 6th house interpretation.",
+    "house_7": "Placeholder fortune in 7th house interpretation.",
+    "house_8": "Placeholder fortune in 8th house interpretation.",
+    "house_9": "Placeholder fortune in 9th house interpretation.",
+    "house_10": "Placeholder fortune in 10th house interpretation.",
+    "house_11": "Placeholder fortune in 11th house interpretation.",
+    "house_12": "Placeholder fortune in 12th house interpretation."
+  }
+}
